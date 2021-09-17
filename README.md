@@ -42,7 +42,7 @@ Building state-of-the-art, easy-to-use, user-friendly websites and applications 
 - 🌱 I can commit more than 30h per week  
   
 
-- ❓ Feel free to ask any problem about web & blockchain  
+- ❓ Feel free to ask about any problem with web & blockchain  
   
 
 - ⚡ Tel: +1 386 269 1692
