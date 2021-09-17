@@ -36,16 +36,17 @@ Building state-of-the-art, easy-to-use, user-friendly websites and applications 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m flexible at working hours  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I can commit more than 30h per week  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Feel free to ask any problem about web & blockchain  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Tel: +1 386 269 1692
+  
 
 
 </td><td valign="top" width="50%">
